@@ -1,3 +1,4 @@
+# Copy from https://github.com/gruntwork-io/terratest/tree/master/examples/terraform-aws-s3-example
 # ---------------------------------------------------------------------------------------------------------------------
 # PIN TERRAFORM VERSION TO >= 0.12
 # The examples have been upgraded to 0.12 syntax
