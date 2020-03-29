@@ -8,7 +8,7 @@ import (
 	"github.com/onsi/gomega"
 
 	// tests to run
-	_ "example.com/test/s3"
+	_ "github.com/canhnt/terratest-ginkgo-example/test/s3"
 )
 
 func RunE2ETests(t *testing.T) {

@@ -1,7 +1,7 @@
 package s3
 
 import (
-	"example.com/test/framework"
+	"github.com/canhnt/terratest-ginkgo-example/test/framework"
 	"github.com/gruntwork-io/terratest/modules/aws"
 	"github.com/gruntwork-io/terratest/modules/terraform"
 	"github.com/onsi/ginkgo"
